@@ -4,15 +4,15 @@
 <h3 align="left">Soy un desarrollador frontend y backend apacionado por la tecnologia y los video Juegos.</h3>
 <p>Me gustan los retos y los desafios y busco ampliar mis conocimientos y habilidades en este campo laboral tan apacionante  como lo es la programación</p>
 
-- 🔭 I’m currently studying **Duoc Uc, Padre Alonso Ovalle**
+- 🔭 actualmente estoy estudiando **Duoc Uc, Padre Alonso Ovalle**
 
-- 🌱 I’m currently learning **React, Web APIs (NET 7) La Guia Completa (Crear y Consumir API)**
+- 🌱 actualmente estoy aprendiendo **React, Web APIs (NET 7) La Guia Completa (Crear y Consumir API)**
 
-- 👯 I’m looking to collaborate on **React, C Shar, Node JS, Express, SQL server**
+- 👯 busco colaborar en **React, C Shar, Node JS, Express, SQL server**
 
 - 💬 Puedes preguntarme **HTML, CSS, JavaScript, React, NodeJS Express, SQL Server**
 
-- 📫 How to reach me **fremontano24@gmail.com**
+- 📫 contactame en mi correo **fremontano24@gmail.com**
 
 
 
