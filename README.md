@@ -1,5 +1,5 @@
 
-- <img align="right" alt="programador" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+- <img align="right" alt="programador" src="https://i.gifer.com/5eKX.gif">
 
 <h1 align="center">Hola👋, Mi Nombre es Freider Montaño.</h1>
 <h3 align="center">Soy un desarrollador frontend y backend apacionado por la tecnologia.</h3>
