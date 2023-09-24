@@ -12,6 +12,6 @@
   <li>NodeJS</li>
   <li>JavaSCript</li>
 </ul>
-<img src="https://cms.rootstack.com/sites/default/files/inline-images/23-237381_java-html-language-logo-png-transparent-png.png" alt="html" >
+<img src="https://cms.rootstack.com/sites/default/files/inline-images/23-237381_java-html-language-logo-png-transparent-png.png" alt="html" width="80" height="80">
 - 💬 Puedes preguntarme **HTML, CSS, JavaScript, React, NodeJS Express, SQL Server**
 
