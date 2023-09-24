@@ -2,7 +2,7 @@
 
 <h1 align="left">console.log(Hola👋🏾, Mi Nombre es Freider);</h1>👨🏾‍💻👨🏾‍🦱
 <h3 align="left">Soy un desarrollador frontend y backend apacionado por la tecnologia y los video Juegos.</h3>
-<p>Me gustan los retos y los desafios y busco ampliar mi campo laboral en esta apacionante profesión como lo es la programación</p>
+<p>Me gustan los retos y los desafios y busco ampliar mis conocimientos y habilidades en este campo laboral tan apacionante  como lo es la programación</p>
 
 - 🔭 I’m currently studying **Duoc Uc, Padre Alonso Ovalle**
 
