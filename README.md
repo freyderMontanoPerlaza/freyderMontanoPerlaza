@@ -6,8 +6,6 @@
 
 - 🔭 actualmente estoy estudiando **Duoc Uc, Padre Alonso Ovalle**
 
-- 🌱 actualmente estoy aprendiendo **React, Web APIs (NET 7) La Guia Completa (Crear y Consumir API)**
-
 - 👯 busco colaborar en **React, C Shar, Node JS, Express, SQL server**
 
 - 💬 Puedes preguntarme **HTML, CSS, JavaScript, React, NodeJS Express, SQL Server**
